@@ -1,0 +1,10 @@
+replay_memory_size = 50_000
+min_replay_mem_size = 32
+update_tgt = 0
+model_name = 'trial'
+minibatch_size = 32
+gamma = 0.99
+epsilon = 1
+epsilon_decay = 0.05
+epsilon_min = 0.01
+episodes = 1_00
