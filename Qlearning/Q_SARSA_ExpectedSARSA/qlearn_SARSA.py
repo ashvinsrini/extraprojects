@@ -1,4 +1,4 @@
-from keras.models import sequential
+from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation
 from keras.callbacks import TensorBoard
 from tensorflow.keras.optimizers import Adam
